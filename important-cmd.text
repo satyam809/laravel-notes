@@ -1,0 +1,1 @@
+1) for creating project:composer create-project --prefer-dist laravel/laravel crud_app
